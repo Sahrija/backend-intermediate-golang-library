@@ -1,3 +1,3 @@
-module github.com/Sahrija/backend-intermediate-golang-library
+module example.com/hello
 
 go 1.20
